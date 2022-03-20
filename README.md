@@ -1,4 +1,4 @@
-_, Protected_by_sono, no = 'discord.gg/gQEH2uZxUk'
+_, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
 
